@@ -1,6 +1,6 @@
 # TypeRacer Bot Made With Python
 
-This is a typing bot for https://typeracer.com. 
+This bot is made for [TypeRacer](https://typeracer.com) website.
 
 Run python file and it will automate chrome and do all on it's own you just sit and see the magic.
 
