@@ -6,7 +6,7 @@ import pyautogui
 
 
 # Defining Chrom Drivers Path
-driver = webdriver.Chrome('C:\Program Files (x86)\chromedriver_win32\chromedriver.exe')
+driver = webdriver.Chrome('Your Chrome Driver Path Goes Here')
 
 
 # Opening Website
