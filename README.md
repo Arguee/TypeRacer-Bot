@@ -1,4 +1,4 @@
-# TypeRacer Bot
+# TypeRacer Bot Made With Python
 
 This is a typing bot for https://typeracer.com. 
 
