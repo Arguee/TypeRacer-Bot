@@ -2,7 +2,8 @@
 
 This is a typing bot for https://typeracer.com. 
 
-Just run the python file to see magic.
+Run python file and will automate chrome and do all on it's own you just sit and see the magic.
+*Note  :- You need the libraries mentioned down.*
 
 **Libraries used :**
   - Time
