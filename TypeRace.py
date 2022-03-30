@@ -17,7 +17,7 @@ time.sleep(5)
 keyboard.press_and_release('ctrl+alt+i')
 time.sleep(2)
 
-# Getting Text Element
+# Getting Text
 text = driver.find_element_by_class_name("gameView").text
 text = text.split("\n")
 print(type(text))
