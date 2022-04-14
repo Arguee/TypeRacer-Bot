@@ -1,8 +1,9 @@
 <h1 align="center" id="title">TypeRacer Bot Python</h1>
 
-<p align="center"><img src="https://socialify.git.ci/Arguee/TypeRacer-Bot/image?description=1&amp;descriptionEditable=Typeracer%20bot%20made%20to%20destroy%20peoples%20on%20typeracing&amp;language=1&amp;name=1&amp;owner=1&amp;theme=Light" alt="project-image"></p>
+<p align="center"><img src="https://socialify.git.ci/Arguee/TypeRacer-Bot/image?language=1&amp;logo=https%3A%2F%2Fargue.gq%2Fassets%2Fprofilepicture.png&amp;name=1&amp;owner=1&amp;theme=Light" alt="project-image"></p>
 
 <p align="center"><img src="https://img.shields.io/github/issues/Arguee/TypeRacer-Bot?color=red&amp;label=Issues" alt="shields"><img src="https://img.shields.io/github/forks/Arguee/TypeRacer-Bot?label=Forks" alt="shields"><img src="https://img.shields.io/github/stars/Arguee/TypeRacer-Bot?color=yellow&amp;label=Stars" alt="shields"></p>
+
 
   
   
