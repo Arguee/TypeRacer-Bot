@@ -49,4 +49,7 @@ Selenium
 
 <h2>💖Like my work?</h2>
 
-Dm me on Discod for paid projects.<p>[Discord](https://discordapp.com/users/842978764690030593)</p>
+Dm me on Discod for paid projects.<p>[Discord](https://discordapp.com/users/842978764690030593)
+
+Or you can support me by buying me a coffee <p> [BuyMeACoffee](https://www.buymeacoffee.com/argue)
+</p>
