@@ -1,55 +1,33 @@
-<h1 align="center" id="title">TypeRacer Bot Python</h1>
-
-<p align="center"><img src="https://socialify.git.ci/Arguee/TypeRacer-Bot/image?language=1&amp;logo=https%3A%2F%2Fargue.gq%2Fassets%2Fprofilepicture.png&amp;name=1&amp;owner=1&amp;theme=Light" alt="project-image"></p>
-
-<p align="center"><img src="https://img.shields.io/github/issues/Arguee/TypeRacer-Bot?color=red&amp;label=Issues" alt="shields"><img src="https://img.shields.io/github/forks/Arguee/TypeRacer-Bot?label=Forks" alt="shields"><img src="https://img.shields.io/github/stars/Arguee/TypeRacer-Bot?color=yellow&amp;label=Stars" alt="shields"></p>
+# Typeracer Bot
+This is a typeracer bot made for https://typeracer.com website to race against online players and destroy them in typing.
 
 
-  
-  
-<h2>🧐 Features</h2>
+## Requirements
+`pip install time selenium keyboard pyautogui`
 
-Here're some of the project's best features:
 
-*   Small code
-*   Easy to understand
-*   Written in python
 
-<h2>🛠️ Installation Steps:</h2>
+## Installation
 
-<p>1. Download according to your Chrome version and put it somewhere and copy it's path.</p>
++ Download chrome driver according to your Chrome version and put it somewhere and copy it's path.
+  ```https://chromedriver.chromium.org/downloads```.
 
-```
-https://chromedriver.chromium.org/downloads 
-```
++ Put the path in Line 9 of `TypeRace.py`.
 
-<p>2. Put the path in Line 9 of</p>
 
-```
-https://github.com/Arguee/TypeRacer-Bot/blob/main/TypeRace.py
-```
 
-<p>3. Libraries used</p>
 
-```
-Time
-```
 
-```
-Pyautogui
-```
 
-```
-Keyboard
-```
+## Authors
 
-```
-Selenium
-```
+- [@Argue](https://www.github.com/Arguee)
 
-<h2>💖Like my work?</h2>
 
-Dm me on Discod for paid projects.<p>[Discord](https://discordapp.com/users/842978764690030593)
+## Support
 
-Or you can support me by buying me a coffee <p> [BuyMeACoffee](https://www.buymeacoffee.com/argue)
-</p>
+For support, contact me on on Discord (!Argue#6693).
+
+
+## Work
+Finding work for my Portolio, contact me on Discord.
