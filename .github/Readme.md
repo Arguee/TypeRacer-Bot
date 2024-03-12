@@ -1,5 +1,5 @@
 # Typeracer Bot
-This is a typeracer bot made for https://typeracer.com website to race against online players and destroy them in typing.
+This is a type racer bot made for https://typeracer.com website to race against online players and destroy them in typing.
 
 
 ## Requirements
@@ -9,7 +9,7 @@ This is a typeracer bot made for https://typeracer.com website to race against o
 
 ## Installation
 
-+ Download chrome driver according to your Chrome version and put it somewhere and copy it's path.
++ Download the Chrome driver according to your Chrome version put it somewhere and copy its path.
   ```https://chromedriver.chromium.org/downloads```.
 
 + Put the path in Line 9 of `TypeRace.py`.
@@ -26,8 +26,8 @@ This is a typeracer bot made for https://typeracer.com website to race against o
 
 ## Support
 
-For support, contact me on on Discord (!Argue#6693).
+For support, contact me on Discord `arguexd`.
 
 
 ## Work
-Finding work for my Portolio, contact me on Discord.
+Finding work for my Portfolio, contact me on Discord.
